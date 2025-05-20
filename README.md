@@ -1,5 +1,4 @@
-# Data Preparation for Dengue Mortality Project
-
+# Data Preparation for Climate Change effects on mortality and morbidity
 This repository contains the data preparation and feature engineering steps for dengue mortality and related exogenous variables in Brazil. The main goal is to provide a transparent overview of the data cleaning, merging, and transformation process used to generate the dataset for further modeling and analysis.
 
 ## Contents

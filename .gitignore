@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+Lib/
+Scripts/
+
+# Data outputs
+*.csv
+*.xlsx
+*.zip
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.sav
+*.pt
+*.pth
+*.ckpt
+*.log
+*.json
+*.db
+*.sqlite
+*.parquet
+*.feather
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Ignore cluster and scenario outputs (if not needed)
+scenariosv1/
+top_clusters_salvos/
+
+# Ignore other temp folders
+nao uso mais/

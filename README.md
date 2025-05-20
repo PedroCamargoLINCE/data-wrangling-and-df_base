@@ -17,3 +17,7 @@ This repository contains the data preparation and feature engineering steps for 
 
 ## License
 MIT License (see your main repo for details)
+
+
+CONTACT ME IF YOU WANT more of THE DATA USED, SINCE IT WOULD CONFIGURE AS git lfs.
+pedro.cmg.camargo@unesp.br

@@ -15,9 +15,6 @@ This repository contains the data preparation and feature engineering steps for 
 - Output files (CSVs, models, etc.) are ignored by default in `.gitignore`.
 - This is a side repo for data prep only. Main modeling and results are in a separate repository.
 
-## License
-MIT License (see your main repo for details)
-
 
 CONTACT ME IF YOU WANT more of THE DATA USED, SINCE IT WOULD CONFIGURE AS git lfs.
 pedro.cmg.camargo@unesp.br
